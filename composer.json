@@ -1,0 +1,16 @@
+{
+	"name": "OllieWP/menu-designer",
+	"description": "Create beautiful, content-rich mobile menus and dropdown menus in WordPress using the power of the block editor.",
+	"type": "wordpress-plugin",
+	"authors": [
+		{
+			"name": "Mike McAlister",
+			"email": "mike@olliewp.com",
+			"role": "Developer"
+		}
+	],
+	"license": "GPL-3.0-or-later",
+	"require": {
+		"php": ">=7.4"
+  	}
+}
